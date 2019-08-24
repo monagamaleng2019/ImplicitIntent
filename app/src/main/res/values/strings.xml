@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Implicit Intent</string>
+    <string name="call">call</string>
+    <string name="call_friend">call friend</string>
+    <string name="open_web">open web</string>
+    <string name="map">map</string>
+</resources>
